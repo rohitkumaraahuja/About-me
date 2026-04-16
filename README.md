@@ -68,7 +68,7 @@
   <a href="https://www.tiktok.com/@salarmastoi110">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://github.com/salarmastoi110">
+  <a href="https://github.com/rohitkumaraahuja">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://youtube.com/@salarmastoi110">
